@@ -1,6 +1,6 @@
 # CorporacionFavorita
 
-Forecasting Corporacion Favorita product sales.  Exploratory forecasting of sales for ~4000 products across 54 grocery stores.  This code was developed in relation to Kaggle competition.
+Forecasting Corporacion Favorita product sales.  Exploratory forecasting of sales for ~4000 products across 54 grocery stores.  This code was developed in relation to Kaggle competition.  https://www.kaggle.com/c/favorita-grocery-sales-forecasting 
 
 ## Code Files
 
